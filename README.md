@@ -143,11 +143,11 @@ There are many other GAN methods for different tasks. Learning new ideas from ot
 We would explore residual-based network for discriminator, and experiment with dynamic training frequency to allow generator train more often than discriminator in the beginning and gradually slow down.
 
 # Reference
-[1] M. Arjovsky, and L. Bottou: Towards Principled Methods for Training Generative Adversarial Networks (2017)
-[2] M. Arjovsky, S. Chintala, and L. Bottou: Wasserstein GAN (2017)
-[3] I. Gulrajani , F. Ahmed, M. Arjovsky, V. Dumoulin, and Aaron Courville: Improved Training of Wasserstein GANs (2017)
-[4] Ian Goodfellow: NIPS 2016 Tutorial: Generative Adversarial Networks (2016)
-[5] Luke de Oliveira, Augustus Odena, Christopher Olah, Jonathon Shlens: Conditional Image Synthesis with Auxiliary Classifier GANs 5. Keras ACGAN implementation (2016)
-[6] Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., Bengio, Y.: Generative adversarial nets (2014)
-[7] Radford, A., Metz, L., Chintala, S.: Unsupervised representation learning with deep convolutional generative adversarial networks (2016)
-[8] Mehdi Mirza, Simon Osindero: Conditional Generative Adversarial Nets (2014)
+* [1] M. Arjovsky, and L. Bottou: Towards Principled Methods for Training Generative Adversarial Networks (2017)
+* [2] M. Arjovsky, S. Chintala, and L. Bottou: Wasserstein GAN (2017)
+* [3] I. Gulrajani , F. Ahmed, M. Arjovsky, V. Dumoulin, and Aaron Courville: Improved Training of Wasserstein GANs (2017)
+* [4] Ian Goodfellow: NIPS 2016 Tutorial: Generative Adversarial Networks (2016)
+* [5] Luke de Oliveira, Augustus Odena, Christopher Olah, Jonathon Shlens: Conditional Image Synthesis with Auxiliary Classifier GANs 5. Keras ACGAN implementation (2016)
+* [6] Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., Bengio, Y.: Generative adversarial nets (2014)
+* [7] Radford, A., Metz, L., Chintala, S.: Unsupervised representation learning with deep convolutional generative adversarial networks (2016)
+* [8] Mehdi Mirza, Simon Osindero: Conditional Generative Adversarial Nets (2014)
